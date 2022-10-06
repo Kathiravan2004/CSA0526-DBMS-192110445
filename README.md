@@ -5,3 +5,5 @@
 [dbms keys](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_2.txt)
 # EXP_3
 [INSERT,SELECT](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_3.txt)
+# EXP_4
+[update,delete](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_4.txt)
