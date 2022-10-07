@@ -1,0 +1,82 @@
+mysql> DELIMITER //
+mysql> CREATE FUNCTION Sample (bonus INT)
+    ->    RETURNS INT
+    ->    BEGIN
+    ->       DECLARE income INT;
+    ->       SET income = 0;
+    ->       myLabel: LOOP
+    ->          SET income = income + bonus;
+    ->          IF income < 10000 THEN
+    ->             ITERATE myLabel;
+    ->          END IF;
+    ->          LEAVE myLabel;
+    ->       END LOOP myLabel;
+    ->    RETURN income;
+    -> END; //
+Query OK, 0 rows affected (0.11 sec)
+
+mysql> DELIMITER ;
+mysql> SELECT Sample(1000);
++--------------+
+| Sample(1000) |
++--------------+
+|        10000 |
++--------------+
+1 row in set (0.07 sec)
+
+mysql> delimiter $$
+mysql>  CREATE PROCEDURE myProc()
+    ->     outer_block: BEGIN
+    ->            DECLARE l_status int;
+    ->              SET l_status=1;
+    ->              inner_block: BEGIN
+    ->                      IF (l_status=1) THEN
+    ->                             LEAVE inner_block;
+    ->                      END IF;
+    ->                      SELECT 'This statement will never be executed';
+    ->              END inner_block;
+    ->              SELECT 'End of program';
+    ->      END outer_block$$
+Query OK, 0 rows affected (0.08 sec)
+
+mysql> delimiter ;
+mysql> call myProc();
++----------------+
+| End of program |
++----------------+
+| End of program |
++----------------+
+1 row in set (0.00 sec)
+
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> delimiter //
+mysql> CREATE procedure ForLoop()
+    ->    wholeblock:BEGIN
+    ->     DECLARE start INT ;
+    ->     Declare maxLimit int;
+    ->     DECLARE result VARCHAR(255);
+    ->     SET start =1 ;
+    ->     SET maxLimit=10;
+    ->     SET result = '';
+    ->     loop_label: LOOP
+    ->     IF start > 10 THEN
+    ->     LEAVE loop_label;
+    ->     END IF;
+    ->     SET result = CONCAT(result,start,',');
+    ->     SET start = start + 1;
+    ->     ITERATE loop_label;
+    ->     END LOOP;
+    ->     SELECT result;
+    ->     END
+    ->     //
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> delimiter ;
+mysql> call ForLoop();
++-----------------------+
+| result                |
++-----------------------+
+| 1,2,3,4,5,6,7,8,9,10, |
++-----------------------+
+1 row in set (0.00 sec)
