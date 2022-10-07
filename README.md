@@ -21,3 +21,5 @@
 [VIEW,INDEX,SEQUENCE](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_10.txt)
 # EXP_11
 [Case,if,iterate,leave,loop](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_11.txt)
+# EXP_12
+[Using while](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_12.txt)
