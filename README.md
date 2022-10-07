@@ -25,3 +25,5 @@
 [Using while](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_12.txt)
 # EXP_13
 [savepoint](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_13.txt)
+# EXP_14
+[Grant,revoke](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_14.txt)
