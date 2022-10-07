@@ -9,3 +9,5 @@
 [update,delete](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_4.txt)
 # EXP_5
 [Where,pattern matching](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_5.txt)
+#EXP_6
+[Between,in,aggregate function](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_6.txt)
