@@ -27,3 +27,5 @@
 [savepoint](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_13.txt)
 # EXP_14
 [Grant,revoke](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_14.txt)
+# EXP_15
+[PROCEDURES](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_15.txt)
