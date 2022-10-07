@@ -29,3 +29,5 @@
 [Grant,revoke](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_14.txt)
 # EXP_15
 [PROCEDURES](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_15.txt)
+# EXP_16
+[Function](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_16.txt)
