@@ -7,3 +7,5 @@
 [INSERT,SELECT](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_3.txt)
 # EXP_4
 [update,delete](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_4.txt)
+# EXP_5
+[Where,pattern matching](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_5.txt)
