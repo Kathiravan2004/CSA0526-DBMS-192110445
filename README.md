@@ -35,5 +35,4 @@
 [Repeat,Replicate](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_17.txt)
 # EXP_18
 [Commit,Rollback](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_18.txt)
-# EXP_19
-[Using SIMPLE MYSQL](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_19.txt)
+
