@@ -41,3 +41,5 @@
 [HRM database](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_20.txt)
 # EXP_21
 [ADVANCED SQL QUERIES HRM DATABASE](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_21.txt)
+# EXP_22
+[book publishing company](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_22.txt)
