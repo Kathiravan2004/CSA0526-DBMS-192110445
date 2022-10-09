@@ -39,3 +39,5 @@
 [using simple mysql](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_19.txt)
 # EXP_20
 [HRM database](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_20.txt)
+# EXP_21
+[ADVANCED SQL QUERIES HRM DATABASE](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_21.txt)
