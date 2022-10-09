@@ -43,3 +43,5 @@
 [ADVANCED SQL QUERIES HRM DATABASE](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_21.txt)
 # EXP_22
 [book publishing company](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_22.txt)
+# EXP_23
+[general hospital](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_23.txt)
