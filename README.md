@@ -47,3 +47,5 @@
 [general hospital](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_23.txt)
 # EXP_24
 [car rental company](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_ext_24.txt)
+# EXP_25
+[monitering sysytem](https://github.com/Kathiravan2004/CSA0526-DBMS-192110445/blob/main/db_exp_25.txt)
